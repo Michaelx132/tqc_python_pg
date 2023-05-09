@@ -1,5 +1,9 @@
 import io
 
+# 字元對應
+
+
+
 total = 0
 inputStr = input()
 
